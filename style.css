@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+.orange{
+ color : orange;
+ text-align:center;
+}
+
+.english{
+ color : blue ;
+ font-size : 15px ;
+}
+
+.ni{
+ margin-top : 15px ;
+}
+
+.etigo{
+ border : solid 1px black;
+ padding : 10px 10px 10px 10px ;
+}
+
+h3{
+ color : red ;
+}
+
+.yamada{
+ border : solid 1px black;
+ padding  : 10px 10px 10px 10px ;
+}
+
+img{
+ margin-bottom : 15px ;
+}
+
+h1{
+ background-color : #f5f5f5 ;
+ padding  : 5px 5px 5px 5px ;
+}
+
+h2{
+ background-color : #f5f5f5 ;
+ padding  : 5px 5px 5px 5px ;
+}
+
+table th{
+ padding : 10px ;
+ background-color : #f5f5f5 ;
+} 
